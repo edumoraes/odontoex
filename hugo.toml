@@ -1,0 +1,8 @@
+baseURL = "/"
+languageCode = "pt-br"
+title = "Implante Dentário em Manaus | Odonto Excellence"
+
+disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
+
+[params]
+  description = "Avaliação para implante dentário em Manaus com orientação individual e condições comerciais a confirmar com a unidade."

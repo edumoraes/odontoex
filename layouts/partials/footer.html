@@ -1,0 +1,76 @@
+<footer class="site-footer" aria-label="Dados da clínica">
+  <div class="container footer-grid">
+    <section>
+      <h2>Dados da clínica</h2>
+      <dl class="footer-data">
+        <div>
+          <dt>Clínica / Pessoa jurídica</dt>
+          <dd>{{ .Params.clinic_name | default "Pendente de preenchimento" }}</dd>
+        </div>
+        <div>
+          <dt>CNPJ</dt>
+          <dd>{{ .Params.clinic_cnpj | default "Pendente de preenchimento" }}</dd>
+        </div>
+        <div>
+          <dt>CRO PJ</dt>
+          <dd>{{ .Params.clinic_cro_pj | default "Pendente de preenchimento" }}</dd>
+        </div>
+        <div>
+          <dt>Responsável técnico</dt>
+          <dd>{{ .Params.technical_responsible | default "Pendente de preenchimento" }}</dd>
+        </div>
+        <div>
+          <dt>CRO do responsável técnico</dt>
+          <dd>{{ .Params.technical_responsible_cro | default "Pendente de preenchimento" }}</dd>
+        </div>
+        <div>
+          <dt>Especialidade registrada</dt>
+          <dd>{{ .Params.registered_specialty | default "Pendente de preenchimento" }}</dd>
+        </div>
+        <div>
+          <dt>Endereço</dt>
+          <dd>{{ .Params.clinic_address | default "Pendente de preenchimento" }}</dd>
+        </div>
+      </dl>
+    </section>
+    <section>
+      <h2>Contato</h2>
+      <dl class="footer-data">
+        <div>
+          <dt>Contato oficial</dt>
+          <dd>{{ .Params.official_contact | default "Pendente de preenchimento" }}</dd>
+        </div>
+        {{ with .Params.instagram_url }}
+          <div>
+            <dt>Instagram</dt>
+            <dd><a href="{{ . }}" target="_blank" rel="noopener">{{ $.Params.instagram_label | default . }}</a></dd>
+          </div>
+        {{ end }}
+      </dl>
+    </section>
+    {{ with .Params.clinic_units }}
+      <section>
+        <h2>Nossas unidades</h2>
+        <ul class="footer-list">
+          {{ range . }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+    {{ with .Params.clinic_hours }}
+      <section>
+        <h2>Horários</h2>
+        <ul class="footer-list">
+          {{ range . }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+    <section>
+      <h2>Aviso</h2>
+      <p>Indicação, tratamento, valores, formas de pagamento e condições comerciais dependem de avaliação individual, planejamento odontológico e política vigente da unidade.</p>
+    </section>
+  </div>
+</footer>
