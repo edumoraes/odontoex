@@ -7,6 +7,7 @@
   {{ end }}
   <meta name="theme-color" content="#DC2626">
   <meta name="msapplication-TileColor" content="#DC2626">
+  <link rel="icon" type="image/png" href="{{ "images/logo-horizontal-principal.png" | relURL }}">
   {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 </head>
