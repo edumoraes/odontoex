@@ -22,7 +22,7 @@ There is no automated test suite in this repository. Validate changes by running
 
 ## Commit & Pull Request Guidelines
 
-The current branch has no commits, so no repository-specific commit convention exists yet. Use short, imperative commit subjects such as `Add landing page images` or `Update WhatsApp CTA copy`. Pull requests should include a concise summary, screenshots for visual changes, any linked issue or task, and the validation performed (`hugo`, browser review, or both). Note any required content fields left blank in `content/_index.md`, such as `whatsapp_url` or clinic registration details.
+Use Conventional Commits for commit messages, with short imperative subjects such as `feat: add landing page images`, `fix: update whatsapp CTA copy`, or `chore: configure gitignore`. Pull requests should include a concise summary, screenshots for visual changes, any linked issue or task, and the validation performed (`hugo`, browser review, or both). Note any required content fields left blank in `content/_index.md`, such as `whatsapp_url` or clinic registration details.
 
 ## Security & Configuration Tips
 

@@ -1,0 +1,15 @@
+# Hugo generated output
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local environment
+.env
+.env.*
+
