@@ -5,6 +5,8 @@
   {{ with .Description | default site.Params.description }}
     <meta name="description" content="{{ . }}">
   {{ end }}
+  <meta name="theme-color" content="#DC2626">
+  <meta name="msapplication-TileColor" content="#DC2626">
   {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 </head>
