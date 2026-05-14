@@ -218,14 +218,14 @@ h1,
 h2,
 h3 {
   margin: 0;
-  line-height: 1.02;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.015em;
 }
 
 h1 {
-  max-width: 13ch;
-  font-size: clamp(2.7rem, 7vw, 4.8rem);
-  font-weight: 800;
+  max-width: 15ch;
+  font-size: clamp(2.35rem, 4.8vw, 3.8rem);
+  font-weight: 760;
+  line-height: 1.08;
 }
 
 h1::first-line {
@@ -254,14 +254,16 @@ h2 em,
 }
 
 h2 {
-  max-width: 13ch;
-  font-size: clamp(2.25rem, 5vw, 4.25rem);
-  font-weight: 790;
+  max-width: 17ch;
+  font-size: clamp(1.95rem, 3.6vw, 3.1rem);
+  font-weight: 740;
+  line-height: 1.1;
 }
 
 h3 {
-  font-size: clamp(1.25rem, 2.4vw, 1.75rem);
-  font-weight: 780;
+  font-size: clamp(1.15rem, 1.8vw, 1.45rem);
+  font-weight: 720;
+  line-height: 1.18;
 }
 
 p {
@@ -623,7 +625,7 @@ p {
 }
 
 .treatments-section .section-heading h2 {
-  max-width: 16ch;
+  max-width: 20ch;
 }
 
 .treatments-showcase {
@@ -795,7 +797,7 @@ p {
 }
 
 .faq-section h2 {
-  max-width: 14ch;
+  max-width: 18ch;
   margin-inline: auto;
 }
 
@@ -889,7 +891,7 @@ p {
 }
 
 .final-copy h2 {
-  max-width: 12ch;
+  max-width: 16ch;
 }
 
 .final-media img {
@@ -918,6 +920,8 @@ p {
 .site-footer {
   padding-block: 3rem;
   color: rgba(255, 255, 255, 0.7);
+  font-size: 0.9rem;
+  line-height: 1.5;
   background: linear-gradient(135deg, var(--deep), var(--deep-2));
   border-top: 1px solid rgba(255, 255, 255, 0.12);
 }
@@ -930,7 +934,7 @@ p {
 .site-footer h2 {
   margin: 0 0 1rem;
   color: #ffffff;
-  font-size: 1.1rem;
+  font-size: 0.98rem;
 }
 
 .footer-data {
@@ -1052,15 +1056,11 @@ p {
   }
 
   h1 {
-    max-width: 13ch;
+    max-width: 15ch;
   }
 
   h2 {
-    max-width: 12ch;
-  }
-
-  .authority-section h2 {
-    max-width: 13ch;
+    max-width: 16ch;
   }
 
   .hero-description {

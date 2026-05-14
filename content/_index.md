@@ -1,7 +1,7 @@
 +++
-title = "Implante dentário em Manaus em até 36x sem juros"
-description = "Perdeu dentes, usa dentadura ou prótese móvel? Agende uma avaliação gratuita pelo WhatsApp na Odonto Excellence Manaus e consulte as condições disponíveis."
-whatsapp_url = "https://wa.me/5592981072056?text=Oi%2C%20vim%20pelo%20site%20e%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o"
+title = "Implante Dentário em Manaus em até 60x no boleto da clínica"
+description = "Implante dentário em Manaus com avaliação gratuita, parcelamento em até 60x no boleto da clínica, sem cartão e sem consulta a SPC/Serasa."
+whatsapp_url = "https://wa.me/5592981072056?text=Ol%C3%A1%2C%20quero%20agendar%20minha%20avalia%C3%A7%C3%A3o%20gratuita%20para%20implante%20dent%C3%A1rio%20em%20Manaus%20e%20saber%20sobre%20o%20parcelamento%20em%20at%C3%A9%2060x%20no%20boleto%20da%20cl%C3%ADnica%2C%20sem%20cart%C3%A3o%20e%20sem%20SPC%2FSerasa."
 clinic_name = "ASPS NOVA CIDADE LTDA"
 clinic_cnpj = "26.031.973/0001-81"
 clinic_cro_pj = ""
@@ -31,80 +31,47 @@ clinic_hours = [
 
 ## Hero
 
-### Implante dentário em Manaus em até 36x sem juros
+### Implante Dentário em Manaus em até 60x no boleto da clínica
 
-Perdeu um ou mais dentes, usa uma prótese que incomoda ou está adiando o tratamento por medo do preço? Na Odonto Excellence Manaus, você agenda uma avaliação totalmente gratuita pelo WhatsApp e conhece as opções para o seu caso, com possibilidade de parcelamento facilitado em até 36x sem juros no boleto da clínica, sem consulta a SPC e Serasa.
+Sem cartão de crédito. Sem consulta ao SPC/Serasa. Avaliação 100% gratuita pelo WhatsApp. Você descobre seu plano de tratamento e as condições antes de decidir qualquer coisa.
 
-**CTA principal:** Agendar avaliação gratuita pelo WhatsApp
+**CTA principal:** Agendar minha avaliação gratuita
 
-**CTA secundário:** Quero saber as condições pelo WhatsApp
+**CTA secundário:** Quero saber as condições pro meu caso
 
-**Linha de apoio:** Avaliação totalmente gratuita | Até 36x sem juros | Boleto da clínica sem consulta a SPC e Serasa
-
----
-
-## Oferta Principal
-
-### Condições facilitadas para você parar de adiar por dúvida sobre valor
-
-Muita gente pesquisa implante dentário em Manaus, mas para no mesmo ponto: o medo de não conseguir pagar.
-
-Na Odonto Excellence Manaus, você pode agendar uma avaliação totalmente gratuita para entender seu caso e consultar as condições comerciais disponíveis na unidade.
-
-Condições em destaque na página:
-
-- Avaliação totalmente gratuita.
-- Parcelamento facilitado em até 36x sem juros.
-- Pagamento no boleto da clínica.
-- Sem consulta a SPC e Serasa.
-- Atendimento em Manaus com planejamento individual.
-
-### Observação da Oferta
-
-As condições comerciais são apresentadas aos clientes conforme avaliação, plano de tratamento, disponibilidade e política vigente da unidade. Isso não representa promessa de indicação clínica. A indicação de implantes, próteses fixas ou próteses móveis depende da avaliação profissional.
-
-**CTA:** Agendar avaliação gratuita pelo WhatsApp
+**Linha de apoio:** Avaliação gratuita em Manaus | 7 unidades | Até 60x no boleto da própria clínica | Sem análise de crédito
 
 ---
 
-## StoryBrand
+## Qualificação
 
-### Você perdeu dentes, mas não precisa decidir sem orientação.
+### Essa página é pra você se…
 
-Quando faltam dentes ou a prótese não fica firme, a rotina muda.
+- Perdeu um ou mais dentes e tem vergonha de sorrir.
+- Usa dentadura ou prótese móvel que vive caindo.
+- Já fez orçamento em outra clínica e travou no preço.
+- Quer parcelar de verdade, sem precisar de cartão com limite alto.
 
-Você pode evitar sorrir em fotos.
+---
 
-Pode mastigar com cuidado.
+## Como funciona
 
-Pode sentir insegurança para conversar de perto.
+### Do WhatsApp ao seu plano em 4 passos
 
-E, quando pensa em resolver, vem outra preocupação: quanto isso vai custar?
+1. Chame no WhatsApp e conte rapidamente seu caso.
+2. Agende sua avaliação gratuita na unidade mais próxima de você em Manaus.
+3. Receba seu plano personalizado, com avaliação e orientação profissional.
+4. Saiba as condições antes de decidir, incluindo prazo, parcela e o que está incluso.
 
-O problema não é apenas escolher um tratamento. O problema é tentar decidir sozinho, sem entender seu caso, sem saber quais opções existem e sem clareza sobre as condições de pagamento.
+---
 
-### A Odonto Excellence Manaus entra como guia
+## Parcelamento
 
-Na avaliação, a equipe entende sua situação, avalia sua saúde bucal e explica quais caminhos podem ser considerados para o seu caso.
+### Como conseguimos parcelar em 60x sem cartão?
 
-Você não precisa chegar sabendo qual tratamento fazer. Você precisa dar o primeiro passo para receber orientação.
+A Odonto Excellence usa boleto próprio. Quem financia o tratamento é a clínica, não um banco. Por isso não precisa de cartão de crédito, não passa por análise de SPC/Serasa e o parcelamento pode caber melhor no mês.
 
-### O plano é simples
-
-1. Chame a equipe no WhatsApp.
-2. Agende sua avaliação totalmente gratuita.
-3. Receba orientação sobre tratamento, etapas e condições.
-4. Decida o próximo passo com mais clareza.
-
-### O resultado esperado
-
-Com avaliação e planejamento, você pode entender como voltar a mastigar, sorrir e conversar com mais segurança, conforme as possibilidades do seu caso.
-
-### O que você evita
-
-Você evita continuar adiando por medo do valor, por dúvida sobre indicação ou por falta de orientação clara.
-
-**CTA:** Quero agendar minha avaliação pelo WhatsApp
+Condições comerciais finais dependem da avaliação individual, do plano de tratamento e da política vigente da unidade.
 
 ---
 
@@ -122,134 +89,50 @@ Alternativas para quem busca mais estabilidade na reabilitação do sorriso, com
 
 Opções para pacientes que precisam de reabilitação com prótese removível, conforme necessidade, condição bucal e orientação da equipe.
 
-### Observação Clínica
-
-Nem todo paciente tem a mesma indicação. A escolha entre implantes osseointegrados, próteses fixas e próteses móveis depende da avaliação, dos exames necessários e do planejamento odontológico.
-
 ---
 
-## Como Funciona
+## Confiança
 
-### 1. Fale com a equipe no WhatsApp
+### Por que pacientes escolhem a Odonto Excellence
 
-Envie uma mensagem dizendo que deseja agendar uma avaliação para implante dentário ou prótese em Manaus.
-
-### 2. Agende sua avaliação totalmente gratuita
-
-A equipe informa os horários disponíveis e orienta o que você precisa para o primeiro atendimento.
-
-### 3. Passe pela avaliação individual
-
-A clínica avalia sua queixa, sua saúde bucal, seus objetivos e a necessidade de exames ou procedimentos complementares.
-
-### 4. Receba seu planejamento
-
-Você entende quais opções podem ser indicadas para o seu caso, incluindo implantes osseointegrados, próteses fixas ou próteses móveis, quando aplicável.
-
-### 5. Consulte as condições
-
-A equipe apresenta as condições comerciais disponíveis, incluindo possibilidade de até 36x sem juros no boleto da clínica, sem consulta a SPC e Serasa, conforme política vigente da unidade.
-
-### 6. Decida com clareza
-
-Com o tratamento explicado e as condições apresentadas, você decide o próximo passo de acordo com sua realidade.
-
-**CTA:** Agendar avaliação gratuita pelo WhatsApp
-
----
-
-## Prova e Autoridade
-
-### Odonto Excellence Manaus
-
-A Odonto Excellence Manaus atende pacientes que buscam reabilitação oral, implantodontia, próteses e outros cuidados odontológicos em Manaus.
-
-A clínica atua como guia no processo: escuta sua queixa, avalia sua condição bucal, orienta sobre as possibilidades e explica as condições antes da decisão.
-
-### Reforço de Confiança
-
-- Atendimento presencial em Manaus.
-- Avaliação totalmente gratuita, conforme disponibilidade da unidade.
-- Planejamento individual para cada paciente.
-- Orientação sobre implantes osseointegrados, próteses fixas e próteses móveis.
-- Condições comerciais explicadas pela equipe antes do início do tratamento.
-- Comunicação pelo WhatsApp para facilitar o agendamento.
-
-### Nota de Responsabilidade
-
-Nenhum resultado clínico é garantido pela copy. Cada paciente precisa de avaliação individual, indicação profissional e planejamento próprio.
-
----
-
-## Bloco de Conversão para WhatsApp
-
-### Quer saber se implante ou prótese é indicado para você?
-
-Chame a equipe no WhatsApp, conte rapidamente sua situação e agende uma avaliação totalmente gratuita na Odonto Excellence Manaus.
-
-### Mensagem Sugerida para Botão
-
-Olá, quero agendar uma avaliação gratuita para implante dentário em Manaus e saber sobre o parcelamento em até 36x sem juros no boleto da clínica, sem consulta a SPC e Serasa.
-
-**CTA:** Agendar avaliação gratuita pelo WhatsApp
+- 7 unidades pela cidade: Boulevard, Cachoeirinha, Cidade Nova, Sumaúma, Nova Cidade, Raiz e Planalto.
+- +15 anos de mercado transformando sorrisos em Manaus.
+- Atendimento humanizado: você é avaliado antes de receber qualquer orçamento.
+- Comunicação pelo WhatsApp: agendamento, dúvidas e retorno num só canal.
 
 ---
 
 ## FAQ para Tráfego de Google Ads
 
-### Quanto custa um implante dentário em Manaus?
+### Quanto custa um implante dentário na Odonto Excellence?
 
-O valor depende da avaliação, da quantidade de dentes, do tipo de prótese, da necessidade de exames e de possíveis procedimentos complementares. Por isso, a Odonto Excellence Manaus orienta o paciente após entender o caso.
+O valor depende da avaliação clínica, do número de dentes a serem reabilitados e do tipo de prótese. Por isso a avaliação é gratuita: você sai dela sabendo quanto custa e como parcelar no seu caso.
 
-### A avaliação é totalmente gratuita?
+### A avaliação é mesmo gratuita?
 
-A página comunica avaliação totalmente gratuita. No WhatsApp, a equipe pode confirmar os detalhes do agendamento.
+Sim. Você não paga nada pra ser avaliado e receber seu plano de tratamento. Só decide se quiser dar continuidade.
 
-### Posso parcelar em 36x sem juros?
+### Como funciona o parcelamento em 60x no boleto?
 
-A página comunica possibilidade de parcelamento em até 36x sem juros no boleto da clínica. As condições dependem do plano de tratamento e da política comercial vigente.
-
-### O pagamento é no boleto da clínica?
-
-Sim, esta página destaca o boleto da clínica como condição comercial. A equipe deve confirmar no atendimento quais formas de pagamento estão disponíveis para cada caso.
-
-### Tem consulta a SPC e Serasa?
-
-Esta página informa sem consulta a SPC e Serasa. A equipe pode confirmar as condições no atendimento oficial.
+A clínica emite os boletos mensais direto pra você. Sem cartão, sem banco, sem análise de SPC/Serasa. As parcelas e o valor final são definidos na avaliação, conforme seu plano de tratamento.
 
 ### Quem usa dentadura pode fazer implante?
 
-Pode haver alternativas com implantes, próteses fixas ou próteses móveis para alguns pacientes. A indicação depende da avaliação da saúde bucal, estrutura óssea e demais condições individuais.
+Em muitos casos, sim. A indicação depende da saúde bucal, estrutura óssea e do que o dentista identifica na avaliação. Por isso, ela é o primeiro passo.
 
-### Quais tratamentos a clínica trabalha?
+### Preciso decidir no mesmo dia da avaliação?
 
-A página comunica implantes osseointegrados, próteses fixas e próteses móveis. A indicação de cada tratamento depende da avaliação profissional e do planejamento odontológico.
-
-### Implante dentário é indicado para todo mundo?
-
-Não. A indicação depende de avaliação profissional, exames quando necessários e condições de saúde bucal e geral do paciente.
-
-### Preciso decidir no mesmo dia?
-
-Não. A avaliação serve para entender seu caso, receber orientação, conhecer as possibilidades de tratamento e consultar as condições comerciais antes de decidir.
-
-### O que eu devo enviar no WhatsApp?
-
-Você pode informar que deseja agendar uma avaliação gratuita, dizer se perdeu um ou mais dentes, se usa dentadura ou prótese móvel e perguntar sobre os horários disponíveis.
+Não. Você leva o plano pra casa, pensa com calma, conversa em família e volta quando quiser.
 
 ---
 
 ## CTA Final
 
-### Pare de adiar seu tratamento por medo do valor.
+### Pare de adiar seu sorriso por causa do preço
 
-Se você perdeu dentes, usa uma prótese que incomoda ou quer entender se implante dentário pode ser indicado para o seu caso, fale com a Odonto Excellence Manaus pelo WhatsApp.
+Agende sua avaliação gratuita agora. Em até 60x no boleto, sem SPC e Serasa, seu tratamento cabe no seu mês.
 
-Agende sua avaliação totalmente gratuita e consulte as condições: até 36x sem juros no boleto da clínica, sem consulta a SPC e Serasa, conforme avaliação, planejamento e política comercial vigente da unidade.
-
-**CTA principal:** Agendar avaliação gratuita pelo WhatsApp
-
-**CTA secundário:** Quero saber as condições pelo WhatsApp
+**CTA principal:** Quero agendar minha avaliação gratuita
 
 **Linha final:** Atendimento em Manaus. Indicação, tratamento e condições somente após avaliação individual.
 

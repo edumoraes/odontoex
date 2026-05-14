@@ -3,43 +3,59 @@
     <section>
       <h2>Dados da clínica</h2>
       <dl class="footer-data">
-        <div>
-          <dt>Clínica / Pessoa jurídica</dt>
-          <dd>{{ .Params.clinic_name | default "Pendente de preenchimento" }}</dd>
-        </div>
-        <div>
-          <dt>CNPJ</dt>
-          <dd>{{ .Params.clinic_cnpj | default "Pendente de preenchimento" }}</dd>
-        </div>
-        <div>
-          <dt>CRO PJ</dt>
-          <dd>{{ .Params.clinic_cro_pj | default "Pendente de preenchimento" }}</dd>
-        </div>
-        <div>
-          <dt>Responsável técnico</dt>
-          <dd>{{ .Params.technical_responsible | default "Pendente de preenchimento" }}</dd>
-        </div>
-        <div>
-          <dt>CRO do responsável técnico</dt>
-          <dd>{{ .Params.technical_responsible_cro | default "Pendente de preenchimento" }}</dd>
-        </div>
-        <div>
-          <dt>Especialidade registrada</dt>
-          <dd>{{ .Params.registered_specialty | default "Pendente de preenchimento" }}</dd>
-        </div>
-        <div>
-          <dt>Endereço</dt>
-          <dd>{{ .Params.clinic_address | default "Pendente de preenchimento" }}</dd>
-        </div>
+        {{ with .Params.clinic_name }}
+          <div>
+            <dt>Clínica / Pessoa jurídica</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
+        {{ with .Params.clinic_cnpj }}
+          <div>
+            <dt>CNPJ</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
+        {{ with .Params.clinic_cro_pj }}
+          <div>
+            <dt>CRO PJ</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
+        {{ with .Params.technical_responsible }}
+          <div>
+            <dt>Responsável técnico</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
+        {{ with .Params.technical_responsible_cro }}
+          <div>
+            <dt>CRO do responsável técnico</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
+        {{ with .Params.registered_specialty }}
+          <div>
+            <dt>Especialidade registrada</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
+        {{ with .Params.clinic_address }}
+          <div>
+            <dt>Endereço</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
       </dl>
     </section>
     <section>
       <h2>Contato</h2>
       <dl class="footer-data">
-        <div>
-          <dt>Contato oficial</dt>
-          <dd>{{ .Params.official_contact | default "Pendente de preenchimento" }}</dd>
-        </div>
+        {{ with .Params.official_contact }}
+          <div>
+            <dt>Contato oficial</dt>
+            <dd>{{ . }}</dd>
+          </div>
+        {{ end }}
         {{ with .Params.instagram_url }}
           <div>
             <dt>Instagram</dt>
