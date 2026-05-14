@@ -33,19 +33,19 @@ clinic_hours = [
 
 ### Implante Dentário em Manaus em até 60x no boleto da clínica
 
-Sem cartão de crédito. Sem consulta ao SPC/Serasa. Avaliação 100% gratuita pelo WhatsApp. Você descobre seu plano de tratamento e as condições antes de decidir qualquer coisa.
+Sem cartão de crédito. Sem consulta ao SPC/Serasa. Avaliação 100% gratuita pelo WhatsApp. Você entende o orçamento e as condições antes de decidir qualquer coisa.
 
 **CTA principal:** Agendar minha avaliação gratuita
 
 **CTA secundário:** Quero saber as condições pro meu caso
 
-**Linha de apoio:** Avaliação gratuita em Manaus | 7 unidades | Até 60x no boleto da própria clínica | Sem análise de crédito
+**Linha de apoio:** Avaliação gratuita em Manaus | 7 unidades | +15 anos de mercado | Até 60x no boleto da própria clínica | Sem análise de crédito
 
 ---
 
 ## Qualificação
 
-### Essa página é pra você se…
+### Esta oferta é pra você se…
 
 - Perdeu um ou mais dentes e tem vergonha de sorrir.
 - Usa dentadura ou prótese móvel que vive caindo.
@@ -56,11 +56,11 @@ Sem cartão de crédito. Sem consulta ao SPC/Serasa. Avaliação 100% gratuita p
 
 ## Como funciona
 
-### Do WhatsApp ao seu plano em 4 passos
+### Do WhatsApp ao seu orçamento em 4 passos
 
 1. Chame no WhatsApp e conte rapidamente seu caso.
 2. Agende sua avaliação gratuita na unidade mais próxima de você em Manaus.
-3. Receba seu plano personalizado, com avaliação e orientação profissional.
+3. Receba seu orçamento personalizado: o dentista avalia e explica as opções indicadas para o seu caso.
 4. Saiba as condições antes de decidir, incluindo prazo, parcela e o que está incluso.
 
 ---
@@ -71,7 +71,7 @@ Sem cartão de crédito. Sem consulta ao SPC/Serasa. Avaliação 100% gratuita p
 
 A Odonto Excellence usa boleto próprio. Quem financia o tratamento é a clínica, não um banco. Por isso não precisa de cartão de crédito, não passa por análise de SPC/Serasa e o parcelamento pode caber melhor no mês.
 
-Condições comerciais finais dependem da avaliação individual, do plano de tratamento e da política vigente da unidade.
+Condições comerciais finais dependem da avaliação individual, do orçamento definido para o caso e da política vigente da unidade.
 
 ---
 
@@ -110,11 +110,11 @@ O valor depende da avaliação clínica, do número de dentes a serem reabilitad
 
 ### A avaliação é mesmo gratuita?
 
-Sim. Você não paga nada pra ser avaliado e receber seu plano de tratamento. Só decide se quiser dar continuidade.
+Sim. Você não paga nada pra receber uma orientação inicial e um orçamento, sem obrigação de fechar. Só decide se quiser dar continuidade.
 
 ### Como funciona o parcelamento em 60x no boleto?
 
-A clínica emite os boletos mensais direto pra você. Sem cartão, sem banco, sem análise de SPC/Serasa. As parcelas e o valor final são definidos na avaliação, conforme seu plano de tratamento.
+A clínica emite os boletos mensais direto pra você. Sem cartão, sem banco, sem análise de SPC/Serasa. As parcelas e o valor final são definidos na avaliação, conforme o orçamento do seu caso.
 
 ### Quem usa dentadura pode fazer implante?
 
@@ -122,7 +122,7 @@ Em muitos casos, sim. A indicação depende da saúde bucal, estrutura óssea e 
 
 ### Preciso decidir no mesmo dia da avaliação?
 
-Não. Você leva o plano pra casa, pensa com calma, conversa em família e volta quando quiser.
+Não. Você leva o orçamento pra casa, pensa com calma, conversa em família e volta quando quiser.
 
 ---
 
